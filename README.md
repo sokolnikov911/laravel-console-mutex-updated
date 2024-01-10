@@ -2,33 +2,25 @@
 
 # Laravel Console Mutex
 
-[<img src="https://user-images.githubusercontent.com/1286821/181085373-12eee197-187a-4438-90fe-571ac6d68900.png" alt="Buy me a coffee" width="200" />](https://buymeacoffee.com/dmitry.ivanov)
 
-[![StyleCI](https://github.styleci.io/repos/59570052/shield?branch=master&style=flat)](https://github.styleci.io/repos/59570052?branch=master)
-[![Build Status](https://img.shields.io/github/workflow/status/dmitry-ivanov/laravel-console-mutex/tests/master)](https://github.com/dmitry-ivanov/laravel-console-mutex/actions?query=workflow%3Atests+branch%3Amaster)
-[![Coverage Status](https://img.shields.io/codecov/c/github/dmitry-ivanov/laravel-console-mutex/master)](https://app.codecov.io/gh/dmitry-ivanov/laravel-console-mutex/branch/master)
-
-![Packagist Version](https://img.shields.io/packagist/v/illuminated/console-mutex)
-![Packagist Stars](https://img.shields.io/packagist/stars/illuminated/console-mutex)
-![Packagist Downloads](https://img.shields.io/packagist/dt/illuminated/console-mutex)
-![Packagist License](https://img.shields.io/packagist/l/illuminated/console-mutex)
 
 Mutex for Laravel Console Commands.
 
-| Laravel | Console Mutex                                                            |
-|---------|--------------------------------------------------------------------------|
-| 9.x     | [9.x](https://github.com/dmitry-ivanov/laravel-console-mutex/tree/9.x)   |
-| 8.x     | [8.x](https://github.com/dmitry-ivanov/laravel-console-mutex/tree/8.x)   |
-| 7.x     | [7.x](https://github.com/dmitry-ivanov/laravel-console-mutex/tree/7.x)   |
-| 6.x     | [6.x](https://github.com/dmitry-ivanov/laravel-console-mutex/tree/6.x)   |
-| 5.8.*   | [5.8.*](https://github.com/dmitry-ivanov/laravel-console-mutex/tree/5.8) |
-| 5.7.*   | [5.7.*](https://github.com/dmitry-ivanov/laravel-console-mutex/tree/5.7) |
-| 5.6.*   | [5.6.*](https://github.com/dmitry-ivanov/laravel-console-mutex/tree/5.6) |
-| 5.5.*   | [5.5.*](https://github.com/dmitry-ivanov/laravel-console-mutex/tree/5.5) |
-| 5.4.*   | [5.4.*](https://github.com/dmitry-ivanov/laravel-console-mutex/tree/5.4) |
-| 5.3.*   | [5.3.*](https://github.com/dmitry-ivanov/laravel-console-mutex/tree/5.3) |
-| 5.2.*   | [5.2.*](https://github.com/dmitry-ivanov/laravel-console-mutex/tree/5.2) |
-| 5.1.*   | [5.1.*](https://github.com/dmitry-ivanov/laravel-console-mutex/tree/5.1) |
+| Laravel | Console Mutex                                                                    |
+|---------|----------------------------------------------------------------------------------|
+| 10.x    | [10.x](https://github.com/sokolnikov911/laravel-console-mutex-updated/tree/10.x) |
+| 9.x     | [9.x](https://github.com/sokolnikov911/laravel-console-mutex-updated/tree/9.x)           |
+| 8.x     | [8.x](https://github.com/sokolnikov911/laravel-console-mutex-updated/tree/8.x)           |
+| 7.x     | [7.x](https://github.com/sokolnikov911/laravel-console-mutex-updated/tree/7.x)           |
+| 6.x     | [6.x](https://github.com/sokolnikov911/laravel-console-mutex-updated/tree/6.x)           |
+| 5.8.*   | [5.8.*](https://github.com/sokolnikov911/laravel-console-mutex-updated/tree/5.8)         |
+| 5.7.*   | [5.7.*](https://github.com/sokolnikov911/laravel-console-mutex-updated/tree/5.7)         |
+| 5.6.*   | [5.6.*](https://github.com/sokolnikov911/laravel-console-mutex-updated/tree/5.6)         |
+| 5.5.*   | [5.5.*](https://github.com/sokolnikov911/laravel-console-mutex-updated/tree/5.5)         |
+| 5.4.*   | [5.4.*](https://github.com/sokolnikov911/laravel-console-mutex-updated/tree/5.4)         |
+| 5.3.*   | [5.3.*](https://github.com/sokolnikov911/laravel-console-mutex-updated/tree/5.3)         |
+| 5.2.*   | [5.2.*](https://github.com/sokolnikov911/laravel-console-mutex-updated/tree/5.2)         |
+| 5.1.*   | [5.1.*](https://github.com/sokolnikov911/laravel-console-mutex-updated/tree/5.1)         |
 
 ![Laravel Console Mutex - Demo](doc/img/demo.gif)
 
@@ -277,14 +269,8 @@ class ExampleCommand extends Command
 }
 ```
 
-## Sponsors
-
-[![Laravel Idea](art/sponsor-laravel-idea.png)](https://laravel-idea.com)<br>
-[![Material Theme UI Plugin](art/sponsor-material-theme.png)](https://material-theme.com)<br>
-
 ## License
 
 Laravel Console Mutex is open-sourced software licensed under the [MIT license](LICENSE.md).
 
-[<img src="https://user-images.githubusercontent.com/1286821/43086829-ff7c006e-8ea6-11e8-8b03-ecf97ca95b2e.png" alt="Support on Patreon" width="125" />](https://patreon.com/dmitryivanov)&nbsp;
-[<img src="https://user-images.githubusercontent.com/1286821/181085373-12eee197-187a-4438-90fe-571ac6d68900.png" alt="Buy me a coffee" width="200" />](https://buymeacoffee.com/dmitry.ivanov)&nbsp;
+Forked from https://github.com/dmitry-ivanov/laravel-console-mutex
